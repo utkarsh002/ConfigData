@@ -6,6 +6,8 @@ eureka:
 ---
 spring:
   profiles: subject
+  application:
+    name:subject
 words: I,You,He,She,It
   
 ---
